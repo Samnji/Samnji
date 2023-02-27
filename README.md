@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samnji
-- 👀 I’m interested in web application development and pentration testing.
-- 🌱 I’m currently learning python, javascript and ethical hacking.
-- 💞️ I’m looking forward to collaborate with my fellow web application developers and pentesters.
+- 👀 I’m a web application developer and a pentration tester.
+- 💞️ I’m a python programmer, bash script writer and an ethical hacker.
+- 🌱 I’m looking forward to collaborate with my fellow web application developers and pentesters.
 - 📫 Reach me at samuelnjiiri625@gmail.com
 
 <!---
