@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samnji
-- 👀 I’m a web application developer and a pentration tester.
+- 👀 I’m a web application developer and a penetration tester.
 - 💞️ I’m a python programmer, bash script writer and an ethical hacker.
 - 💼 I'm currently learning about developing APIs and using Docker containers.
 - 🏢 Some of my Django projects are private as they are real-world projects that can be monetized.
