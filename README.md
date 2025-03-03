@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @Samnji
-- 👀 I’m a Full Satck Web developer/Information Systems Engineer/Cyber Security Analyst.
-- 💞️ I’m a python programmer, bash script writer and an ethical hacker.
-- 💼 I develop APIs and use Docker Compose, Kubernetes, for containerization.
-- 🧠 I'm currently learning about Artificial Intelligence and Machine Learning.
-- 🏢 Some of my Django projects are private as they are real-world projects that can be monetized.
-- 🌱 I’m looking forward to collaborate with my fellow Tech Enthusiasts.
-- 📫 Reach me at samuelnjiiri625@gmail.com
+🚀 Hey there, I’m @Samnji!
+👀 Full-Stack Web Developer | Information Systems Engineer | Cybersecurity Analyst
+💻 Passionate about building scalable web applications & securing digital systems.
+
+🔹 Tech Stack: Python, Django, Bash, JavaScript, PostgreSQL
+🔹 DevOps & Cloud: Docker, Kubernetes, CI/CD, AWS
+🔹 Cybersecurity: Ethical Hacking, Security Audits, Penetration Testing
+
+💡 Currently Exploring: Artificial Intelligence & Machine Learning 🤖
+🏢 Some of my Django projects are private due to monetization potential.
+
+🌟 Let’s collaborate! I love connecting with fellow Tech Enthusiasts on open-source projects.
+📩 Reach me at: samuelnjiiri625@gmail.com
+
+🔗 Follow me & let's build something amazing! 🚀
 
 <!---
 Samnji/Samnji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
