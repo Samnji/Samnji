@@ -4,10 +4,10 @@
 💻 Passionate about building **scalable web applications** & securing digital systems.  
 
 ## 🔹 Tech Stack  
-- **Languages:** Python, Django, Bash, JavaScript, c, c++, java, html, css 
+- **Languages:** Python, Django, Bash, JavaScript, c, c++, java, html, css, tailwindcss
 - **Databases:** PostgreSQL, MySQL, MongoDb
-- **DevOps & Cloud:** Docker, Kubernetes, CI/CD, AWS  
-- **Cybersecurity:** Ethical Hacking, Security Audits, Penetration Testing  
+- **DevOps & Cloud:** Docker, Kubernetes, Ansible, CI/CD, AWS, Digital Ocean
+- **Cybersecurity:** Linux, Metasploit, Burpsuite, Nmap, Wireshark, Computer Networks, Bash Scripting, Malware Development/Analysis
 
 ## 💡 Currently Exploring  
 - 🤖 **Artificial Intelligence & Machine Learning**  
